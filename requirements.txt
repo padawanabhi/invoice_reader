@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+celery
+redis
+python-multipart
+pandas
+scikit-learn
+alembic
+pytesseract
+Pillow
+openai
+requests 
